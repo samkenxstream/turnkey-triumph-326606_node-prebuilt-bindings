@@ -1,5 +1,5 @@
 {
-  "name": "prebuilt-bindings",
+  "name": "@devicefarmer/prebuilt-bindings",
   "version": "1.0.3",
   "description": "Add prebuilt bindings to your native module.",
   "keywords": [
