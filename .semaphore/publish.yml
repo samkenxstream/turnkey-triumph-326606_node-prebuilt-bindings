@@ -10,7 +10,7 @@ blocks:
             - sem-version node 12
             - cache restore
             - npm install
-            - npm publish --access-public
+            - npm publish --access public
       secrets:
         - name: npmjs
 agent:
