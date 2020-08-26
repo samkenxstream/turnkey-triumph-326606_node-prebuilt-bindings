@@ -1,6 +1,6 @@
 {
   "name": "@devicefarmer/prebuilt-bindings",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Add prebuilt bindings to your native module.",
   "keywords": [
     "bindings",
@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sorccu/node-prebuilt-bindings.git"
+    "url": "https://github.com/DeviceFarmer/node-prebuilt-bindings.git"
   },
   "main": "./index",
   "devDependencies": {
