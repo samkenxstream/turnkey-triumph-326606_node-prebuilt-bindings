@@ -15,7 +15,7 @@
   },
   "main": "./index",
   "devDependencies": {
-    "eslint": "^3.9.1",
+    "eslint": "^8.18.0",
     "eslint-config-standard": "^7.1.0",
     "eslint-plugin-promise": "^4.3.1",
     "eslint-plugin-standard": "^3.1.0"
